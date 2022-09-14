@@ -1,0 +1,7 @@
+#include <unistd.h>
+
+int _putcha(char c)
+{
+	return (write(1, &c, 1));
+}
+
