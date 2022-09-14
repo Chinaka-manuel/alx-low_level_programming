@@ -1,1 +1,1 @@
-This is the begining of C function
+My read me 
