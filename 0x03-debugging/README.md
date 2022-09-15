@@ -1,1 +1,1 @@
-This is the C debugging 
+Doing hard things
